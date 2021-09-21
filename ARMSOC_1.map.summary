@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Apr 30 19:38:43 2021
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : ARMSOC_1
+Top-level Entity Name : ARMSOC_1
+Family : Cyclone II
+Total logic elements : 19,014
+    Total combinational functions : 12,417
+    Dedicated logic registers : 9,042
+Total registers : 9042
+Total pins : 67
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

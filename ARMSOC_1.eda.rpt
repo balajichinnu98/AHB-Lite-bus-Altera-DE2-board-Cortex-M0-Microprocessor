@@ -1,0 +1,92 @@
+EDA Netlist Writer report for ARMSOC_1
+Fri Apr 30 19:44:58 2021
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Full Version
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------+
+; EDA Netlist Writer Summary                                        ;
++---------------------------+---------------------------------------+
+; EDA Netlist Writer Status ; Successful - Fri Apr 30 19:44:58 2021 ;
+; Revision Name             ; ARMSOC_1                              ;
+; Top-level Entity Name     ; ARMSOC_1                              ;
+; Family                    ; Cyclone II                            ;
++---------------------------+---------------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Info: *******************************************************************
+Info: Running Quartus II 64-Bit EDA Netlist Writer
+    Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Full Version
+    Info: Processing started: Fri Apr 30 19:44:41 2021
+Info: Command: quartus_eda --gen_testbench --check_outputs=on --tool=modelsim_oem --format=verilog ARMSOC_1 -c ARMSOC_1 --vector_source=M:/Design-Start-Students-v2/DesignStart-Students-V2/EXAMPLE_SoC/ARMSOC_DE2_1/Altera/Waveform.vwf --testbench_file=M:/Design-Start-Students-v2/DesignStart-Students-V2/EXAMPLE_SoC/ARMSOC_DE2_1/Altera/simulation/modelsim/Waveform.vwf.vt
+Warning (201007): Can't find port "LED7SEG" in design
+Warning (201007): Can't find port "LED7SEG[31]" in design
+Warning (201007): Can't find port "LED7SEG[30]" in design
+Warning (201007): Can't find port "LED7SEG[29]" in design
+Warning (201007): Can't find port "LED7SEG[28]" in design
+Warning (201007): Can't find port "LED7SEG[27]" in design
+Warning (201007): Can't find port "LED7SEG[26]" in design
+Warning (201007): Can't find port "LED7SEG[25]" in design
+Warning (201007): Can't find port "LED7SEG[24]" in design
+Warning (201007): Can't find port "LED7SEG[23]" in design
+Warning (201007): Can't find port "LED7SEG[22]" in design
+Warning (201007): Can't find port "LED7SEG[21]" in design
+Warning (201007): Can't find port "LED7SEG[20]" in design
+Warning (201007): Can't find port "LED7SEG[19]" in design
+Warning (201007): Can't find port "LED7SEG[18]" in design
+Warning (201007): Can't find port "LED7SEG[17]" in design
+Warning (201007): Can't find port "LED7SEG[16]" in design
+Warning (201007): Can't find port "LED7SEG[15]" in design
+Warning (201007): Can't find port "LED7SEG[14]" in design
+Warning (201007): Can't find port "LED7SEG[13]" in design
+Warning (201007): Can't find port "LED7SEG[12]" in design
+Warning (201007): Can't find port "LED7SEG[11]" in design
+Warning (201007): Can't find port "LED7SEG[10]" in design
+Warning (201007): Can't find port "LED7SEG[9]" in design
+Warning (201007): Can't find port "LED7SEG[8]" in design
+Warning (201007): Can't find port "LED7SEG[7]" in design
+Warning (201007): Can't find port "LED7SEG[6]" in design
+Warning (201007): Can't find port "LED7SEG[5]" in design
+Warning (201007): Can't find port "LED7SEG[4]" in design
+Warning (201007): Can't find port "LED7SEG[3]" in design
+Warning (201007): Can't find port "LED7SEG[2]" in design
+Warning (201007): Can't find port "LED7SEG[1]" in design
+Warning (201007): Can't find port "LED7SEG[0]" in design
+Info (201000): Generated Verilog Test Bench File M:/Design-Start-Students-v2/DesignStart-Students-V2/EXAMPLE_SoC/ARMSOC_DE2_1/Altera/simulation/modelsim/Waveform.vwf.vt for simulation
+Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 33 warnings
+    Info: Peak virtual memory: 4658 megabytes
+    Info: Processing ended: Fri Apr 30 19:44:58 2021
+    Info: Elapsed time: 00:00:17
+    Info: Total CPU time (on all processors): 00:00:01
+
+
