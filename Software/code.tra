@@ -1,0 +1,19 @@
+*** Creating Trace Output File 'code.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\cm0dsasm.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\cm0dsasm.o" 
+--ro-base 0x00000000 --entry 0x00000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\code.map" -o code.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'code.axf'
+### ADS-LD Command File: 'code.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'code.lnp', Handle=0x000002F0
+### Writing '.lnp' file
+### ADS-LD Command file 'code.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
